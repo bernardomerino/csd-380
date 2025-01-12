@@ -3,5 +3,5 @@ For Dev Ops Class
 # CSD 380 DevOps
 
 ## Contributors
-- Chandron
+- Chandra Bobba
 - Bernardo Merino
